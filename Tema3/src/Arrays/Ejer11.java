@@ -1,5 +1,3 @@
-# Programacion
-repositorio de programacion
 package Arrays;
 
 public class Ejer11 {
